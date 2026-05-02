@@ -1,0 +1,1 @@
+{ "name": "NakoPay", "scopes": ["store_v2_orders", "store_v2_transactions"], "auth_callback": "/auth/callback" }
