@@ -1,0 +1,9 @@
+{
+  "id": "nakopay",
+  "name": "NakoPay",
+  "version": "0.1.0",
+  "scopes": ["store_v2_orders", "store_v2_transactions"],
+  "auth_callback": "/auth/callback",
+  "load_callback": "/load",
+  "uninstall_callback": "/uninstall"
+}
