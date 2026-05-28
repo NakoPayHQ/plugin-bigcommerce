@@ -1,6 +1,6 @@
 {
   "name": "@nakopay/plugin-bigcommerce",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "NakoPay payment integration for BigCommerce stores",
   "main": "dist/index.js",
   "scripts": {
